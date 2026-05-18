@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou Dede! 👋
 
-<!--
-**dedss22/dedss22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+🐍 Aprendendo Python e SQL  
+📊 Foco em dados, automação e IA  
 
-Here are some ideas to get you started:
+## O que estou estudando agora
+- Python (fundamentos e análise de dados)
+- SQL para dados
+- Automação com Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [Jogo do Funil](https://github.com/dedss22/python) — jogo de adivinhar número com mecânica de eliminação
+
+## LinkedIn
+- https://www.linkedin.com/in/andr%C3%A9-carvalho-3318211a2/
+
+- -------------------------------------------------------------------------------------------------------------
+
+# Hi, I'm André! 👋
+
+🎓 Computer Science student  
+🐍 Learning Python and SQL  
+📊 Focused on data, automation, and AI  
+
+## What I'm studying now
+
+- Python (fundamentals and data analysis)
+- SQL for data
+- Automation with Python
+
+## Projects
+- [Jogo do Funil](https://github.com/dedss22/python) — number guessing game with elimination mechanics
+
+## LinkedIn
+- https://www.linkedin.com/in/andr%C3%A9-carvalho-3318211a2/
