@@ -1,4 +1,4 @@
-# Olá, eu sou Dede! 👋
+# Olá, eu sou André! 👋
 
 🎓 Estudante de Ciência da Computação  
 🐍 Aprendendo Python e SQL  
