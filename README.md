@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Header animado com typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9+Carvalho;Desenvolvedor+Full-Stack+%26+Especialista+em+IA" alt="Typing SVG" /></a>
+<!-- Header animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Ola,+eu+sou+o+Andre+Carvalho+%F0%9F%91%8B" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=FF7300&center=true&vCenter=true&repeat=true&width=900&height=35&lines=Desenvolvedor+Full-Stack+e+Especialista+em+IA" alt="Typing SVG" />
 
 <br/>
 
