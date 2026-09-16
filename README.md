@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- Header animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Ola,+eu+sou+o+Andre+Carvalho+%F0%9F%91%8B" alt="Typing SVG" />
+# 👋 Olá, eu sou o André Carvalho
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=FF7300&center=true&vCenter=true&repeat=true&width=900&height=35&lines=Desenvolvedor+Full-Stack+e+Especialista+em+IA" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=FF7300&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Desenvolvedor+Full-Stack;Especialista+em+IA+%26+Automa%C3%A7%C3%A3o;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+</a>
 
 <br/>
 
 <!-- Badges de contato -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-carvalho-3318211a2/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-FF7300?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://dedss22.github.io/paralelo17/)
+[![Portfólio](https://img.shields.io/badge/Portfólio_Ao_Vivo-FF7300?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://dedss22.github.io/paralelo17/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dedss22)
 
 </div>
@@ -23,18 +24,23 @@ class AndreCarvalho:
     def __init__(self):
         self.nome = "André Carvalho"
         self.role = "Desenvolvedor Full-Stack & Especialista em IA"
-        self.localização = "Brasil 🇧🇷"
-        self.linguagens = ["Python", "C", "C++", "SQL", "JavaScript", "HTML/CSS"]
-        self.áreas = ["Inteligência Artificial", "Automação", "Web Development", 
-                      "Análise de Dados", "Design de Produto Digital"]
+        self.localizacao = "Brasil 🇧🇷"
+        self.formacao = "Ciência da Computação"
+        self.linguagens = ["Python", "C", "C++", "SQL", "JavaScript", "HTML5/CSS3"]
+        self.areas = [
+            "Inteligência Artificial & LLMs",
+            "Automação de Processos",
+            "Desenvolvimento Web de Alto Padrão",
+            "Estruturas de Dados & Algoritmos"
+        ]
     
     def objetivo(self):
-        return "Transformar ideias em soluções digitais de alto padrão"
+        return "Transformar problemas complexos em produtos digitais rápidos, escaláveis e elegantes."
 ```
 
 <div align="center">
 
-> *"Cada linha de código é uma oportunidade de criar algo que impacta o mundo."*
+> *"Cada linha de código é uma oportunidade de criar algo que impacta o mundo real."*
 
 </div>
 
@@ -44,7 +50,7 @@ class AndreCarvalho:
 
 <div align="center">
 
-### Linguagens
+### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -53,15 +59,16 @@ class AndreCarvalho:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas & Tecnologias
+### Ferramentas & Ecossistema
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### IA & Dados
+### Inteligência Artificial & Automação
 ![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-Python_Imaging-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
@@ -70,24 +77,73 @@ class AndreCarvalho:
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/dedss22/paralelo17">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dedss22&repo=paralelo17&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=FF7300&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/dedss22/python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dedss22&repo=python&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=FF7300&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/dedss22/C">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dedss22&repo=C&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=FF7300&text_color=C9D1D9" />
-</a>
-
-</div>
-
-### 🏡 Paralelo 17 — Plataforma Imobiliária de Luxo
-> Plataforma web completa para apresentação de propriedades de altíssimo padrão em Trancoso, Bahia. Inclui álbum fotográfico imersivo com 496 fotos em Ultra-HD, tabela de preços interativa e design responsivo premium.
-> 
-> **🔗 [Ver Site ao Vivo](https://dedss22.github.io/paralelo17/)** · **Stack:** HTML5 · CSS3 · JavaScript · Python (automação de thumbnails)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏡 <a href="https://github.com/dedss22/paralelo17">Paralelo 17 — Luxury Real Estate</a></h3>
+      <p align="center">
+        <a href="https://dedss22.github.io/paralelo17/"><img src="https://img.shields.io/badge/Live_Demo-Acessar_Site_🌐-FF7300?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
+        <a href="https://github.com/dedss22/paralelo17"><img src="https://img.shields.io/badge/GitHub-Repositório_📂-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+      <p>
+        Plataforma web de altíssimo padrão para apresentação de imóveis de luxo em Trancoso, Bahia. Apresenta <b>catálogo fotográfico imersivo com 496 fotos Ultra-HD</b>, tabela interativa de temporadas e valores, contato WhatsApp e carregamento ultrarrápido com thumbnails inteligentes.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 <a href="https://github.com/dedss22/python">Python Studies & Automation</a></h3>
+      <p align="center">
+        <a href="https://github.com/dedss22/python"><img src="https://img.shields.io/badge/GitHub-Ver_Códigos_📂-3776AB?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+      <p>
+        Repositório de projetos práticos, automações, scripts de análise de dados e jogos interativos (como o <i>Jogo do Funil</i> com mecânica de eliminação), criados com foco em lógica algorítmica, POO e automação em Ciência da Computação.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FFD43B?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Algorithms-4B8BBE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Structures-2E7D32?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/dedss22/C">C & C++ Algorithms</a></h3>
+      <p align="center">
+        <a href="https://github.com/dedss22/C"><img src="https://img.shields.io/badge/GitHub-Ver_Códigos_📂-00599C?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+      <p>
+        Programação de baixo nível com foco em gerenciamento direto de memória, ponteiros, estruturas de dados clássicas (listas encadeadas, filas, pilhas) e algoritmos eficientes desenvolvidos em C e C++.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Memory_Management-D32F2F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Structures-1565C0?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/dedss22">AI Engineering & Future Projects</a></h3>
+      <p align="center">
+        <a href="https://github.com/dedss22"><img src="https://img.shields.io/badge/Status-Em_Construção_🚀-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+      </p>
+      <p>
+        Soluções inovadoras integrando IA generativa, fluxos de trabalho com agentes autônomos, engenharia de prompts avançada e pipelines de processamento automatizado de dados em tempo real.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LLMs-886FBF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prompt_Engineering-191919?style=flat-square" />
+        <img src="https://img.shields.io/badge/Autonomous_Agents-FF7300?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,37 +151,34 @@ class AndreCarvalho:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedss22&show_icons=true&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=FF7300&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedss22&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=FF7300&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dedss22&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dedss22&theme=github_dark" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedss22&theme=github-dark-blue&border=30363D&background=0D1117&stroke=58A6FF&ring=FF7300&fire=FF7300&currStreakLabel=58A6FF" />
 
 </div>
 
 ---
 
-## 🎯 O que estou focado agora
+## 🎯 Foco & Objetivos Atuais
 
-- 🔭 **Trabalhando em:** Plataformas web premium para o mercado imobiliário de luxo
-- 🌱 **Estudando:** Machine Learning, APIs RESTful e arquitetura de software
-- 🤝 **Aberto para:** Freelance, colaborações e oportunidades profissionais
-- ⚡ **Curiosidade:** Uso IA como copiloto de desenvolvimento desde o dia 1
+- 🔭 **Desenvolvendo:** Plataformas digitais completas e aplicações orientadas a IA
+- 🌱 **Aprofundando:** Machine Learning, arquitetura de sistemas distribuídos e engenharia de software
+- 🤝 **Disponível para:** Projetos inovadores, consultoria freelance e oportunidades de tecnologia
+- ⚡ **Diferencial:** Desenvolvimento acelerado com ferramentas avançadas de IA e foco implacável na experiência do usuário
 
 ---
 
-## 🏆 Conquistas & Highlights
+## 🏆 Conquistas & Marcos Recentes
 
 <div align="center">
 
-![](https://img.shields.io/badge/496_Fotos_Processadas_via_Automação-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Plataforma_Web_no_Ar-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-![](https://img.shields.io/badge/Design_Responsivo_Premium-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Otimização_2GB→276MB-Pillow-FF6F00?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/496_Fotos_Processadas_via_Pipeline_Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Otimização_Massiva_2.1GB_→_276MB-Pillow-FF6F00?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Plataforma_Online_em_Produção-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![](https://img.shields.io/badge/Design_Ultra--Responsivo_de_Luxo-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
@@ -133,14 +186,14 @@ class AndreCarvalho:
 
 <div align="center">
 
-### 📬 Vamos conversar?
+### 📬 Vamos nos conectar?
 
-Se você tem um projeto interessante ou quer trocar uma ideia, me manda uma mensagem!
+Tem uma ideia ou um projeto desafiador? Vamos construir juntos!
 
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-carvalho-3318211a2/)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-carvalho-3318211a2/)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dedss22&color=58A6FF&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dedss22&color=58A6FF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile Views" />
 
 </div>
